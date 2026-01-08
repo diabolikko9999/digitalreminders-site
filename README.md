@@ -26,8 +26,9 @@ Il sito è statico (HTML + CSS) e può essere pubblicato facilmente su:
 ## Note
 Questo sito serve principalmente a:
 1. Verifica del dominio su **Meta Business Manager**.
-2. Dare un riferimento istituzionale ai clienti.
-3. Fornire trasparenza su termini e privacy.
+2. Verifica del dominio su AWS per Amazon SeS.
+3. Dare un riferimento istituzionale ai clienti.
+4. Fornire trasparenza su termini e privacy.
 
 ---
 © 2025 DigitalReminders
